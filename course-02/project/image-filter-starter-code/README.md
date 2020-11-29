@@ -11,7 +11,7 @@
 <img src = "./image-eb-deploy.png">
 
 
-<h1> Udagram can be founf here: </h1>
+<h1> Udagram can be found here: </h1>
 
 
 
