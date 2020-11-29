@@ -4,7 +4,6 @@ import {filterImageFromURL, deleteLocalFiles} from './util/util';
 import { filter } from 'bluebird';
 
 (async () => {
-
   // Init the Express application
   const app = express();
 
@@ -13,11 +12,10 @@ import { filter } from 'bluebird';
   
   // Use the body parser middleware for post requests
   app.use(bodyParser.json());
-
   // @TODO1 IMPLEMENT A RESTFUL ENDPOINT
   // GET /filteredimage?image_url={{URL}}
   // endpoint to filter an image from a public url.
-  // IT SHOULD
+  // IT SHOULD 1, 2, 3, 4
   // QUERY PARAMATERS
   //    image_url: URL of a publicly accessible image
   // RETURNS
